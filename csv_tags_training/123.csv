@@ -1,0 +1,24 @@
+type, feature, confidence_score
+S1.track_count,double,0.95
+S1.track_alignment,straight_long,0.90
+S2.track_structure,railroad_crossing,1.00
+S2.catenary_support_type,portal,1.00
+S2.station_type,none,1.00
+S3.visibility,open,1.00
+S3.built_environment,sparse,0.90
+S3.human_density,low,0.90
+S3.viewpoint,eye_level,1.00
+M2.terrain,plain,1.00
+M2.water,none,1.00
+M3.vegetation,scrub,0.90
+M3.building_type,factory_chimney,0.95
+M3.building_type,low_house,0.85
+M3.trackside_barrier,concrete_wall,0.90
+M3.trackside_barrier,wire_fence,0.85
+M3.misc,yellow_warning_sign,1.00
+M3.misc,striped_pole,1.00
+M3.misc,power_line,0.95
+M3.misc,plowed_field,0.95
+M3.misc,level_crossing_gate,0.90
+M3.context,前方平交道,1.00
+M3.context,監視錄影中,1.00

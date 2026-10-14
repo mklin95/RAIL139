@@ -1,0 +1,26 @@
+type, feature, confidence_score
+S1.track_count,single,1.00
+S1.track_alignment,gentle_curve,1.00
+S2.track_structure,ground_level,0.95
+S2.catenary_support_type,pole,1.00
+S2.station_type,none,1.00
+S3.visibility,open,1.00
+S3.built_environment,sparse,1.00
+S3.human_density,none,1.00
+S3.viewpoint,eye_level,1.00
+M2.terrain,plain,0.90
+M2.water,none,1.00
+M3.vegetation,broadleaf,0.95
+M3.vegetation,mango_flower,0.85
+M3.building_type,none,1.00
+M3.trackside_barrier,concrete_wall,0.90
+M3.misc,CCTV,1.00
+M3.misc,electrical_cabinet,1.00
+M3.misc,level_crossing_signal,1.00
+M3.misc,kilometer_post,1.00
+M3.context,60/33,1.00
+M3.context,有電勿近,1.00
+M3.context,小南蛇,1.00
+M3.context,開閉所,1.00
+M3.context,注意火車,1.00
+M3.context,路綠平交道警報手控按鈕,1.00

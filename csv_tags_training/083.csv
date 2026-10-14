@@ -1,0 +1,25 @@
+type, feature, confidence_score
+S1.track_count,single,1.00
+S1.track_alignment,gentle_curve,0.95
+S2.track_structure,ground_level,0.95
+S2.catenary_support_type,pole,1.00
+S2.station_type,small_rural,1.00
+S3.visibility,open,1.00
+S3.built_environment,sparse,0.95
+S3.human_density,none,1.00
+S3.viewpoint,high_angle,0.90
+M2.terrain,mountain_range,1.00
+M2.terrain,coast_visible,1.00
+M2.water,sea,1.00
+M3.vegetation,mango_flower,0.95
+M3.vegetation,scrub,0.90
+M3.building_type,none,1.00
+M3.trackside_barrier,concrete_wall,1.00
+M3.trackside_barrier,mesh_fence,1.00
+M3.misc,road_parallel_provincial,0.95
+M3.misc,ballast,1.00
+M3.misc,cantilever,1.00
+M3.misc,insulator,1.00
+M3.misc,street_light,0.90
+M3.context,內獅,1.00
+M3.context,Neishi,1.00

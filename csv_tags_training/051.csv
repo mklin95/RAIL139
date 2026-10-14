@@ -1,0 +1,21 @@
+type, feature, confidence_score
+S1.track_count,single,1.00
+S1.track_alignment,gentle_curve,0.95
+S2.track_structure,hillside,1.00
+S2.catenary_support_type,pole,1.00
+S2.station_type,none,1.00
+S3.visibility,open,1.00
+S3.built_environment,sparse,0.95
+S3.human_density,none,1.00
+S3.viewpoint,high_angle,1.00
+M2.terrain,hillside,1.00
+M2.terrain,coast_visible,1.00
+M2.water,sea,1.00
+M3.vegetation,mango_flower,1.00
+M3.vegetation,scrub,0.90
+M3.building_type,low_house,0.80
+M3.trackside_barrier,wire_fence,0.90
+M3.misc,power_line,1.00
+M3.misc,transmission_tower,1.00
+M3.misc,concrete_path,1.00
+M3.context,none,1.00

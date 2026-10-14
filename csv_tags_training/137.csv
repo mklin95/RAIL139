@@ -1,0 +1,24 @@
+type, feature, confidence_score
+S1.track_count,single,1.00
+S1.track_alignment,straight_long,1.00
+S2.track_structure,railroad_crossing,1.00
+S2.catenary_support_type,pole,1.00
+S2.station_type,small_rural,1.00
+S3.visibility,open,1.00
+S3.built_environment,sparse,0.90
+S3.human_density,low,0.90
+S3.viewpoint,eye_level,1.00
+M2.terrain,plain,1.00
+M2.water,none,1.00
+M3.vegetation,betel_nut,1.00
+M3.vegetation,broadleaf,0.80
+M3.building_type,low_house,0.90
+M3.trackside_barrier,wire_fence,0.90
+M3.misc,level_crossing_gate,1.00
+M3.misc,whistle_sign,1.00
+M3.misc,platform,1.00
+M3.misc,mileage_marker,1.00
+M3.misc,road_parallel_small,0.95
+M3.misc,platform_lighting,1.00
+M3.context,44/23,1.00
+M3.context,鐵路,1.00

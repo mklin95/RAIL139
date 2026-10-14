@@ -1,0 +1,25 @@
+type, feature, confidence_score
+S1.track_count,single,1.00
+S1.track_alignment,straight_long,1.00
+S2.track_structure,ground_level,1.00
+S2.catenary_support_type,mixed,1.00
+S2.station_type,small_rural,1.00
+S3.visibility,open,1.00
+S3.built_environment,sparse,0.90
+S3.human_density,none,1.00
+S3.viewpoint,eye_level,1.00
+M2.terrain,plain,1.00
+M2.terrain,hillside,0.90
+M2.water,none,1.00
+M3.vegetation,mango_flower,1.00
+M3.vegetation,scrub,0.80
+M3.building_type,low_house,0.70
+M3.trackside_barrier,concrete_wall,1.00
+M3.trackside_barrier,mesh_fence,1.00
+M3.misc,relay_box,1.00
+M3.misc,platform,1.00
+M3.misc,point_machine,1.00
+M3.misc,signal_equipment,1.00
+M3.misc,station_sign,1.00
+M3.context,加祿,1.00
+M3.context,Jialu,1.00

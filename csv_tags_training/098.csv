@@ -1,0 +1,27 @@
+type, feature, confidence_score
+S1.track_count,double,1.00
+S1.track_alignment,straight_long,0.95
+S2.track_structure,railroad_crossing,1.00
+S2.catenary_support_type,portal,1.00
+S2.station_type,none,0.95
+S3.visibility,open,1.00
+S3.built_environment,sparse,0.90
+S3.human_density,none,1.00
+S3.viewpoint,eye_level,1.00
+M2.terrain,plain,1.00
+M2.water,none,1.00
+M3.vegetation,scrub,0.90
+M3.building_type,low_house,1.00
+M3.building_type,temple,0.95
+M3.building_type,water_tower,0.90
+M3.trackside_barrier,mesh_fence,1.00
+M3.trackside_barrier,concrete_wall,0.80
+M3.misc,level_crossing_equipment,1.00
+M3.misc,striped_barrier,1.00
+M3.misc,cctv,0.95
+M3.misc,road_marking,1.00
+M3.misc,utility_pole,0.95
+M3.context,嘉和,1.00
+M3.context,K6+492,1.00
+M3.context,1933,1.00
+M3.context,K06+490,0.90

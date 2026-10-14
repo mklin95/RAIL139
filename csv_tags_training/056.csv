@@ -1,0 +1,25 @@
+type, feature, confidence_score
+S1.track_count,single,1.00
+S1.track_alignment,gentle_curve,0.95
+S2.track_structure,hillside,0.95
+S2.catenary_support_type,pole,1.00
+S2.station_type,none,1.00
+S3.visibility,open,1.00
+S3.built_environment,none,1.00
+S3.human_density,none,1.00
+S3.viewpoint,eye_level,1.00
+M2.terrain,coast_visible,1.00
+M2.terrain,hillside,0.95
+M2.water,sea,1.00
+M3.vegetation,scrub,0.90
+M3.vegetation,broadleaf,0.90
+M3.vegetation,mango_flower,0.85
+M3.building_type,none,1.00
+M3.trackside_barrier,none,0.90
+M3.misc,metal_railing,1.00
+M3.misc,yellow_black_paint,1.00
+M3.misc,ballast,1.00
+M3.misc,concrete_pole_base,1.00
+M3.misc,insulator,1.00
+M3.context,邊坡防護起點,1.00
+M3.context,K12+550,1.00

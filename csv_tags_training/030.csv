@@ -1,0 +1,26 @@
+type, feature, confidence_score
+S1.track_count,single,1.00
+S1.track_alignment,straight_long,1.00
+S2.track_structure,railroad_crossing,1.00
+S2.catenary_support_type,pole,1.00
+S2.station_type,none,1.00
+S3.visibility,open,1.00
+S3.built_environment,sparse,1.00
+S3.human_density,none,1.00
+S3.viewpoint,eye_level,1.00
+M2.terrain,plain,1.00
+M2.terrain,mountain_range,0.95
+M2.water,none,1.00
+M3.vegetation,betel_nut,0.90
+M3.vegetation,scrub,0.90
+M3.building_type,low_house,1.00
+M3.trackside_barrier,mesh_fence,0.90
+M3.misc,level_crossing_signal,1.00
+M3.misc,boom_barrier,1.00
+M3.misc,yellow_box_marking,1.00
+M3.misc,signal_light,1.00
+M3.misc,electrical_box,0.90
+M3.misc,concrete_barrier,0.90
+M3.context,平交道緊急按鈕,1.00
+M3.context,1933,1.00
+M3.context,2L,0.80

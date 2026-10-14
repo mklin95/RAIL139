@@ -1,0 +1,20 @@
+type, feature, confidence_score
+S1.track_count,single,0.95
+S1.track_alignment,straight_long,0.90
+S2.track_structure,embankment,0.95
+S2.catenary_support_type,pole,1.00
+S2.station_type,none,1.00
+S3.visibility,open,1.00
+S3.built_environment,sparse,0.90
+S3.human_density,none,1.00
+S3.viewpoint,eye_level,0.90
+M2.terrain,plain,1.00
+M2.terrain,mountain_range,0.90
+M2.water,fish_pond,1.00
+M3.vegetation,scrub,0.90
+M3.building_type,none,1.00
+M3.trackside_barrier,none,1.00
+M3.misc,fish_pond_aerator,1.00
+M3.misc,high_voltage_pylon,1.00
+M3.misc,concrete_sleepers_stack,0.95
+M3.context,none,1.00

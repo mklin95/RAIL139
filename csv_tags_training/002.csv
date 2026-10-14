@@ -1,0 +1,24 @@
+type, feature, confidence_score
+S1.track_count,multiple,1.00
+S1.track_alignment,track_split,1.00
+S2.track_structure,ground_level,1.00
+S2.catenary_support_type,portal,1.00
+S2.station_type,urban,0.95
+S3.visibility,open,1.00
+S3.built_environment,dense,0.90
+S3.human_density,none,1.00
+S3.viewpoint,eye_level,1.00
+M2.terrain,plain,1.00
+M2.water,none,1.00
+M3.vegetation,broadleaf,0.80
+M3.vegetation,betel_nut,0.70
+M3.building_type,low_house,0.90
+M3.trackside_barrier,mesh_fence,0.90
+M3.misc,signal_post,1.00
+M3.misc,platform,1.00
+M3.misc,ballast,1.00
+M3.misc,turnout,1.00
+M3.context,枋寮,1.00
+M3.context,1A,1.00
+M3.context,2,1.00
+M3.context,1,1.00

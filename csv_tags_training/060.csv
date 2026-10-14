@@ -1,0 +1,23 @@
+type, feature, confidence_score
+S1.track_count,single,1.00
+S1.track_alignment,straight_long,0.95
+S2.track_structure,fake_tunnel,1.00
+S2.catenary_support_type,none,0.90
+S2.station_type,none,1.00
+S3.visibility,enclosed,1.00
+S3.built_environment,none,0.95
+S3.human_density,none,1.00
+S3.viewpoint,eye_level,1.00
+M2.terrain,hillside,1.00
+M2.water,none,1.00
+M3.vegetation,broadleaf,0.95
+M3.building_type,none,1.00
+M3.trackside_barrier,mesh_fence,0.95
+M3.misc,concrete_structure,1.00
+M3.misc,electrical_box,1.00
+M3.misc,cctv_camera,1.00
+M3.misc,cable_tray,0.95
+M3.misc,ballast,1.00
+M3.context,明隧道,1.00
+M3.context,K10+970,1.00
+M3.context,K1478,1.00

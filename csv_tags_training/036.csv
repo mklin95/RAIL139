@@ -1,0 +1,23 @@
+type, feature, confidence_score
+S1.track_count,double,1.00
+S1.track_alignment,straight_long,0.95
+S2.track_structure,embankment,0.90
+S2.catenary_support_type,pole,1.00
+S2.station_type,none,1.00
+S3.visibility,open,1.00
+S3.built_environment,sparse,0.95
+S3.human_density,none,1.00
+S3.viewpoint,eye_level,1.00
+M2.terrain,plain,1.00
+M2.water,fish_pond,0.95
+M3.vegetation,betel_nut,1.00
+M3.vegetation,scrub,0.90
+M3.building_type,farmhouse,0.85
+M3.building_type,low_house,0.90
+M3.trackside_barrier,none,1.00
+M3.misc,level_crossing_gate,1.00
+M3.misc,signal_equipment,0.95
+M3.misc,utility_pole,0.95
+M3.misc,cable_trough,0.95
+M3.misc,power_line,0.95
+M3.context,57/10,0.90

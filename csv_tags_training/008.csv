@@ -1,0 +1,22 @@
+type, feature, confidence_score
+S1.track_count,double,1.00
+S1.track_alignment,straight_long,1.00
+S2.track_structure,bridge,1.00
+S2.catenary_support_type,mixed,0.95
+S2.station_type,none,1.00
+S3.visibility,open,1.00
+S3.built_environment,sparse,0.90
+S3.human_density,none,1.00
+S3.viewpoint,eye_level,1.00
+M2.terrain,plain,0.95
+M2.terrain,mountain_range,0.90
+M2.water,none,0.90
+M3.vegetation,scrub,0.90
+M3.building_type,low_house,0.90
+M3.trackside_barrier,wire_fence,0.90
+M3.misc,warren_truss_bridge,1.00
+M3.misc,ballast,1.00
+M3.misc,concrete_cable_trough,1.00
+M3.misc,utility_pole,1.00
+M3.misc,signal_cabinet,1.00
+M3.context,TRA_logo,0.90

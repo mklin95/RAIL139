@@ -1,0 +1,19 @@
+type, feature, confidence_score
+S1.track_count,single,0.95
+S1.track_alignment,straight_long,1.0
+S2.track_structure,bridge,1.0
+S2.catenary_support_type,pole,1.0
+S2.station_type,none,1.0
+S3.visibility,open,1.0
+S3.built_environment,sparse,0.9
+S3.human_density,none,1.0
+S3.viewpoint,side_view,1.0
+M2.terrain,river_crossing,1.0
+M2.terrain,plain,0.9
+M2.water,river_wide,1.0
+M3.vegetation,scrub,0.9
+M3.building_type,low_house,0.7
+M3.trackside_barrier,none,1.0
+M3.misc,bridge_pier,1.0
+M3.misc,riverbed,1.0
+M3.context,none,1.0
